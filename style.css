@@ -7,6 +7,7 @@ body {
   background-position: center;
   background-attachment: fixed;
   color: #fff; /* Cambia el texto a blanco para que se lea mejor sobre la imagen */
+  text-shadow: 1px 1px 3px white;
 }
 
 
