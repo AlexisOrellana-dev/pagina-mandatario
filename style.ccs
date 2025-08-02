@@ -2,7 +2,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-image: url('TU_URL_DE_IMAGEN_AQUÍ');
+  background-image: url('https://github.com/AlexisOrellana-dev/pagina-mandatario/blob/main/fondo.jpeg?raw=true');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
